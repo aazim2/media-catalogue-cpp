@@ -1,0 +1,10 @@
+# Build output
+*.o
+*.exe
+catalogue
+
+# Dev-C++ / IDE
+*.dev
+*.layout
+Makefile.win
+
